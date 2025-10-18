@@ -1,0 +1,23 @@
+{
+  "name": "@agentic-next/port-randomizer",
+  "version": "1.0.0",
+  "description": "Automatic port randomization for Next.js applications",
+  "main": "index.js",
+  "keywords": [
+    "nextjs",
+    "port",
+    "random",
+    "randomization",
+    "agentic"
+  ],
+  "author": "Next AI Labs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Next-AI-Labs-Inc/agentic-next-starter",
+    "directory": "packages/port-randomizer"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
