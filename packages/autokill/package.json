@@ -1,0 +1,23 @@
+{
+  "name": "@agentic-next/autokill",
+  "version": "1.0.0",
+  "description": "Automatically kill processes on a port before starting your Next.js app",
+  "main": "index.js",
+  "keywords": [
+    "nextjs",
+    "port",
+    "kill",
+    "autokill",
+    "agentic"
+  ],
+  "author": "Next AI Labs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Next-AI-Labs-Inc/agentic-next-starter",
+    "directory": "packages/autokill"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
