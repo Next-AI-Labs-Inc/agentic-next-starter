@@ -1,0 +1,22 @@
+{
+  "name": "@agentic-next/verify",
+  "version": "1.0.0",
+  "description": "Health check utility for Next.js applications",
+  "main": "index.js",
+  "keywords": [
+    "nextjs",
+    "health-check",
+    "agentic",
+    "verification"
+  ],
+  "author": "Next AI Labs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Next-AI-Labs-Inc/agentic-next-starter",
+    "directory": "packages/verify"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
