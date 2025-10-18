@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agentic features
+.agentic-config.json
+.agent-health-check.log
+.port-config.json
